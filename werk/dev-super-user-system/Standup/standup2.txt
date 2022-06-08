@@ -1,0 +1,11 @@
+Standup2:
+Martin is afwezig of ziek
+Roy is ziek
+
+
+Turan is bezig met zijn ux oppoetesen en is bezig met de presentatie
+
+Skylor tweede user story is net afgemaakt edit en delete werkte eerder niet.
+Code refinen om het overzichtelijk te maken.
+
+Notulist: Turan

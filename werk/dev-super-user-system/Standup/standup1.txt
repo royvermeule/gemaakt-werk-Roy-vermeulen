@@ -1,0 +1,8 @@
+standup 1:
+we hebben besproken waar iedereen op dit moment is met zijn sprint
+en hoelang ze hiermee bezig zouden zijn.
+hieruit blijkt dat Roy 't verst achter loopt en nog 2 user stories moet maken. Hij zegt dat ie 't voor volgende week af kan hebben.
+Martin is redelijk bij en moet nog een wireframe maken en één userstorie en dan is hij klaar.
+zal rond 't eind van de week af zijn.
+Turan is bijna klaar met zijn laatste userstorie en daarna nog 2 wireframes maken en dan is hij klaar voor woensdag.
+Skylor moet nog 2 wireframes maken en dan is hij klaar voor woensdag.

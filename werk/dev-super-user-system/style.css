@@ -1,0 +1,50 @@
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.buttonGreen {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.buttonGreen:hover {
+    background-color: gray;
+}
+
+.buttonBlack {
+    background-color: #555555; /* Black */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.buttonBlack:hover {
+    background-color: gray;
+}
+
+
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+    width:fit-content;;
+}
+
+.buttonContainer button {
+    width: 100%;
+    height: 30%;
+}
+
+.buttonList {
+    list-style-type: none;
+}
